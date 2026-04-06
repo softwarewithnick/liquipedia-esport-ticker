@@ -1,5 +1,7 @@
 # Liquipedia-Public-LED
 
+The data used for this project can be obtained by using Liquipedia's API: https://liquipedia.net/api
+
 Tournament display for a 64x32 RGB LED matrix. Fetches upcoming and live esports tournament data from Firebase Realtime Database and scrolls it on the display.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7461026-ee0c-419d-a461-321208bbd294" width="30%" />

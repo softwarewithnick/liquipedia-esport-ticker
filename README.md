@@ -18,7 +18,6 @@ Tournament display for a 64x32 RGB LED matrix. Fetches upcoming and live esports
 - **Wiring** (ESP32):
 
 | Pin   | GPIO |
-
 |-------|------|
 | P_LAT | 22   |
 | P_A   | 19   |

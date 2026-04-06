@@ -1,6 +1,11 @@
 # Liquipedia-Public-LED
 
 Tournament display for a 64x32 RGB LED matrix. Fetches upcoming and live esports tournament data from Firebase Realtime Database and scrolls it on the display.
+![IMG_0828](https://github.com/user-attachments/assets/b7461026-ee0c-419d-a461-321208bbd294)
+![IMG_0829](https://github.com/user-attachments/assets/d2654ae9-2eee-4131-abfd-500b22f1e18d)
+![IMG_0836](https://github.com/user-attachments/assets/a2697120-fe1a-4972-9883-693ec3f56e0b)
+
+
 
 ## Hardware
 
@@ -9,6 +14,7 @@ Tournament display for a 64x32 RGB LED matrix. Fetches upcoming and live esports
 - **Wiring** (ESP32):
 
 | Pin   | GPIO |
+
 |-------|------|
 | P_LAT | 22   |
 | P_A   | 19   |
